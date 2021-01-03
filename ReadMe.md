@@ -222,8 +222,3 @@ Input the IP address and start the game!
 
 **Enjoy the game !** 
 
-**please feel free to make any commets or give feedback**
-
-**Contact me through henrylong719@gmail.com**
-
-**I will keep improving it  :)**
